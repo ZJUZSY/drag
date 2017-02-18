@@ -17,6 +17,5 @@ function drag(id){
 		};
 	}
 	return false;
-	new1操作
-	
+	function(master)
 }

@@ -17,5 +17,6 @@ function drag(id){
 		};
 	}
 	return false;
-	function(master)(xiugai)
+	function(master)(niewgaidonbg)
+
 }

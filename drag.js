@@ -17,5 +17,5 @@ function drag(id){
 		};
 	}
 	return false;
-	function(master)
+	function(master)(niewgaidonbg)
 }

@@ -18,5 +18,5 @@ function drag(id){
 	}
 	return false;
 	al
-	
+	new2
 }

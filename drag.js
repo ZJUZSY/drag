@@ -17,6 +17,6 @@ function drag(id){
 		};
 	}
 	return false;
-	al
+	new1操作
 	
 }

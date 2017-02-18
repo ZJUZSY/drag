@@ -17,6 +17,4 @@ function drag(id){
 		};
 	}
 	return false;
-	function(master)(niewgaidonbg)
-
 }
